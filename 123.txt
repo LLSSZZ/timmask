@@ -1,0 +1,64 @@
+<html>
+<body>
+
+<h1 style="text-align:center">This is a heading</h1>
+
+<p>我的第一个段落。</p>
+<a href=''http://www.w3school.com.cn''>This is a link</a>
+<p>
+To break<br />lines<br />in a<br />paragraph,<br />use the br tag.
+<strong>This text is strong</strong>
+
+<br />
+
+<big>This text is big</big>
+
+<br />
+
+<em>This text is emphasized</em>
+
+<br />
+
+<i>This text is italic</i>
+
+<br />
+
+<small>This text is small</small>
+
+<br />
+
+This text contains
+<sub>subscript</sub>
+
+<br />
+
+This text contains
+<sup>superscript</sup>
+</p>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta http-equiv="Content-Language" content="zh-cn" />
+</head>
+
+<body>
+
+<a href="/example/html/lastpage.html" style="text-decoration:none">
+这是一个链接！
+</a>
+<html>
+
+<body>
+<p>
+您也可以使用图像来作链接：
+<a href="/example/html/lastpage.html">
+<img border="0" src="/i/eg_buttonnext.gif" />
+</a>
+</p>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
